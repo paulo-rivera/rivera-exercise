@@ -1,1 +1,1 @@
-# rivera-exercise
+# Rivera Git Exercise
